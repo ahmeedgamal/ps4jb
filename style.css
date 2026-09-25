@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;600;700&display=swap');
 
 html {
-    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    background: linear-gradient(#E14B3D, #0f0c29, #E14B3D, #24243e);
     background-attachment: fixed;
     min-height: 100vh;
     color: white;
